@@ -2,6 +2,7 @@
 title = MyKivyApp
 package.name = mykivyapp
 package.domain = org.example
+version = 1.0.0  # ← Add this line
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 requirements = python3,kivy
